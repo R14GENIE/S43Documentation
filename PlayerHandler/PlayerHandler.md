@@ -4,8 +4,8 @@
 
 ### Dépendance : 
 
-MorphModule
-MapSettingModule
+MorphModule : https://github.com/R14GENIE/S43Documentation/blob/main/PlayerHandler/MorphModule.md
+MapSettingModule 
 
 ### module.Init
 
@@ -25,4 +25,4 @@ Pour l'instant check juste si le compte du joueur n'est pas trop jeune.
 
 #### :CharactereAdded()
 
-Va faire utilisé le MorphModule
+Va faire utilisé la fonction du MorphPlayer du module MorphModule
