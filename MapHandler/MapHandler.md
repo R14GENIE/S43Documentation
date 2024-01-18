@@ -10,4 +10,4 @@ Module qui gère les KillPart
 
 Module qui gère les caméras de la map.
 
-Voir 
+Voir : https://github.com/R14GENIE/S43Documentation/blob/main/MapHandler/CameraHandle_MapModule.md
