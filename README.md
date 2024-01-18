@@ -14,3 +14,9 @@ Script servant à créee tous les commandes utilisable avec le TextChatService
 Script servant à gérer le système de réseau / IP in game.
 
 Voir : https://github.com/R14GENIE/S43Documentation/blob/main/InternalNetworkHandle/InternalNetworkHandle.md
+
+## MapHandler
+
+Script qui lance toutes les fonctions lié à la map
+
+Voir : 
