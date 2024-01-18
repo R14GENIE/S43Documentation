@@ -32,3 +32,7 @@ Voir : WIP
 Script gérant les joueurs pour les datastore, les morphs et tous ce qui leur est lié.
 
 Voir : https://github.com/R14GENIE/S43Documentation/blob/main/PlayerHandler/PlayerHandler.md
+
+## PromptHandler
+
+Script gérant tous les prompts in game
